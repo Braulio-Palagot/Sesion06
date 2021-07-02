@@ -1,5 +1,6 @@
 package Reto02;
 
+
 public class SmartPhone {
     private String name, model, processor;
     private float price;
